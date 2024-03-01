@@ -1,4 +1,4 @@
-<img align="right" width="35%" src="Assets/profile-img.png">
+<img align="right" width="35%" src="https://github.com/RanitManik/ranitmanik/raw/main/Assets/profile-img.png">
   
 # Hi👋, I'm Ranit Manik
 
